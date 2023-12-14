@@ -3,6 +3,13 @@
     "version":"1.0",
     "description": "Monochrome Dark Theme for Chrome",
     "manifest_version":2,
+	"icons":{
+        "16":"icons/JustDarkTheme-16.png",
+        "48":"icons/JustDarkTheme-48.png",
+		"64":"icons/JustDarkTheme-64.png",
+        "128":"icons/JustDarkTheme-128.png",
+		"256":"icons/JustDarkTheme-256.png"
+    },
     "theme":{
         "colors":{
             "background_tab": [ 19, 19, 19 ],
