@@ -1,0 +1,33 @@
+{
+    "name":"Just Dark Theme",
+    "version":"1.0",
+    "description": "Monochrome Dark Theme for Chrome",
+    "manifest_version":2,
+    "theme":{
+        "colors":{
+            "background_tab": [ 19, 19, 19 ],
+			"background_tab_inactive": [ 19, 19, 19 ],
+			"background_tab_incognito": [ 0, 0, 0 ],
+			"background_tab_incognito_inactive": [ 0, 0, 0 ],
+			"bookmark_text": [ 200, 200, 200 ],
+			"button_background": [ 0, 0, 0, 0 ],
+			"frame": [ 19, 19, 19 ],
+			"frame_inactive": [ 19, 19, 19 ],
+			"frame_incognito": [ 0, 0, 0 ],
+			"frame_incognito_inactive": [ 0, 0, 0 ],
+			"ntp_background": [ 44, 44, 44 ],
+			"ntp_header": [ 200, 200, 200 ],
+			"ntp_link": [ 200, 200, 200 ],
+			"ntp_text": [ 200, 200, 200 ],
+			"tab_background_text": [ 200, 200, 200 ],
+			"tab_background_text_inactive": [ 170, 170, 170 ],
+			"tab_background_text_incognito": [ 170, 170, 170 ],
+			"tab_background_text_incognito_inactive": [ 170, 170, 170 ],
+			"tab_text": [ 240, 240, 240 ],
+			"toolbar": [ 44, 44, 44 ]
+        },
+        "tints":{
+            "buttons":[0.40,0.40,0.40]
+        }
+    }
+}
